@@ -1,0 +1,95 @@
+
+
+
+
+#BoxY{
+    width: 608px;
+    height: 512px;
+    position: relative;
+background-color: green;
+margin-left: auto;
+margin-right: auto;
+  }
+ 
+
+    
+  .box {
+    height: 32px;
+    width: 32px;
+    float: left;
+  }
+
+  .wallBox {
+    background-color: gray;
+
+  }
+
+  .crateBox {
+    background-color: burlywood;
+  }
+
+  .player {
+    background-color: red;
+  }
+
+  .goal {
+    background-color: green;
+  }
+/*
+
+
+#myBox {
+    width: 400px;
+    height: 400px;
+    background: red;
+    animation: mymove 5s infinite;
+     margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  .box {
+    height: 50px;
+    width: 50px;
+    float: left;
+  }
+
+  #player {
+  font-size: 100px;
+  }
+  /*body{
+    background-color:gray;
+    text-align: center;
+}
+  @keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+  }
+
+
+#TableId{ 
+    width: 500px;
+  height: 500px;
+  position:  relative;
+    background-color: rgb(58, 51, 51);
+    
+}
+
+#game{
+    font-family: "Courier New";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 24px;
+    white-space: pre;
+}
+#agility{
+    font-family: "Courier New";
+    margin-top: 10px;
+}
+#button{
+    width: 60px;
+    height: 60px;
+    background-color: tan;
+
+}
